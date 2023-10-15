@@ -1,4 +1,4 @@
-[![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
+![MasterHead](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638981799header.png)
 
 <h1 align="center">Hi 👋, I'm Muhamad Naeem</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
