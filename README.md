@@ -11,7 +11,7 @@
 - 🌱 Continuously learning and improving my backend skills with Node.js, Express.js and TypeScript
 - 🛠️ Experience with RESTful API integration and development
 - 👨‍💻 Building full-stack applications with Flutter frontend and Node.js backend
-- 📫 Reach me at **naeemiqbalarash1912@gmail.com**
+- 📫 Reach me at **tfanaeem@gmail.com**
 - ⚡ Fun fact: **I am a Quick Learner who loves solving complex problems**
 
 ## 🚀 Skills
