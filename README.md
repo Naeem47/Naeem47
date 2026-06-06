@@ -1,99 +1,153 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   ███╗   ██╗ █████╗ ███████╗███████╗███╗   ███╗                 ║
+║   ████╗  ██║██╔══██╗██╔════╝██╔════╝████╗ ████║                 ║
+║   ██╔██╗ ██║███████║█████╗  █████╗  ██╔████╔██║                 ║
+║   ██║╚██╗██║██╔══██║██╔══╝  ██╔══╝  ██║╚██╔╝██║                 ║
+║   ██║ ╚████║██║  ██║███████╗███████╗██║ ╚═╝ ██║                 ║
+║   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝                ║
+║                                                                  ║
+║   ██╗ ██████╗  ██████╗  █████╗ ██╗                              ║
+║   ██║██╔═══██╗██╔═══██╗██╔══██╗██║                              ║
+║   ██║██║   ██║██║   ██║███████║██║                              ║
+║   ██║██║▄▄ ██║██║▄▄ ██║██╔══██║██║                              ║
+║   ██║╚██████╔╝╚██████╔╝██║  ██║███████╗                         ║
+║   ╚═╝ ╚══▀▀═╝  ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝                         ║
+║                                                                  ║
+║           Flutter Engineer  │  Full-Stack Developer              ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<h1 align="center">Hi 👋, I'm Muhamad Naeem</h1>
-<h3 align="center">Mid-Level Flutter Developer | Backend Developer</h3>
+```bash
+naeem@dev:~$ whoami
+```
+> Flutter Engineer & Backend Developer — crafting digital experiences from mobile to server.
 
+```bash
+naeem@dev:~$ cat about.txt
+```
 
-## 💻 About Me
+```
+NAME      : Naeem Iqbal
+ROLE      : Flutter Engineer | Node.js Backend Developer
+LOCATION  : Pakistan 🇵🇰
+EMAIL     : tfanaeem@gmail.com
+STATUS    : Currently building → Knock Knock V
+TRAIT     : Quick learner. Complex problem solver.
+```
 
-- 🔭 I'm currently working on **Knock Knock V**
-- 💼 Mid-level Flutter developer with expertise in multiple state management solutions and clean architecture
-- 🌱 Continuously learning and improving my backend skills with Node.js, Express.js and TypeScript
-- 🛠️ Experience with RESTful API integration and development
-- 👨‍💻 Building full-stack applications with Flutter frontend and Node.js backend
-- 📫 Reach me at **tfanaeem@gmail.com**
-- ⚡ Fun fact: **I am a Quick Learner who loves solving complex problems**
+---
 
-## 🚀 Skills
+```bash
+naeem@dev:~$ cat skills/frontend.dart
+```
 
-### Frontend Development
-- Flutter & Dart (Mid-level)
-- State Management (Provider, Bloc, GetX, Riverpod)
-- Clean Architecture Implementation
-- UI/UX Design Implementation
-- REST API Integration
+```dart
+class FrontendSkills {
+  final framework      = "Flutter & Dart";
+  final stateManagement = [
+    "Bloc",       // preferred for large apps
+    "Riverpod",   // modern & testable
+    "GetX",       // rapid prototyping
+    "Provider",   // classic
+  ];
+  final architecture   = "Clean Architecture + SOLID";
+  final design         = "UI/UX implementation from Figma";
+  final integration    = "RESTful API integration";
+}
+```
 
-### Backend Development
-- Node.js & Express.js
-- TypeScript
-- ORM (TypeORM)
-- API Development
-- Authentication & Authorization
+```bash
+naeem@dev:~$ cat skills/backend.ts
+```
 
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- Firebase Firestore
+```typescript
+const backendSkills = {
+  runtime:   "Node.js",
+  framework: "Express.js",
+  language:  "TypeScript",
+  orm:       "TypeORM",
+  patterns:  ["RESTful API design", "Auth & Authorization", "Middleware"],
+  currently: "Deepening — advanced TS patterns, query optimization",
+};
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href=https://www.linkedin.com/in/naeem-iqbal-965886221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-</p>
+```bash
+naeem@dev:~$ cat skills/databases.sql
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-</p>
+```sql
+SELECT * FROM databases WHERE proficiency = 'working';
 
-## 📊 GitHub Stats
+-- ┌────────────┬────────────┬─────────────────────┐
+-- │ database   │ type       │ use_case            │
+-- ├────────────┼────────────┼─────────────────────┤
+-- │ PostgreSQL │ Relational │ Primary production  │
+-- │ MySQL      │ Relational │ Legacy / shared DBs │
+-- │ MongoDB    │ Document   │ Flexible schemas    │
+-- │ Firebase   │ NoSQL      │ Realtime / mobile   │
+-- └────────────┴────────────┴─────────────────────┘
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naeem47&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="naeem47" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naeem47&show_icons=true&locale=en&theme=tokyonight" alt="naeem47" /></p>
+```bash
+naeem@dev:~$ ls projects/ && cat projects/knock-knock-v.md
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naeem47&theme=tokyonight" alt="naeem47" /></p>
+```
+PROJECT  : Knock Knock V
+STACK    : Flutter + Node.js + TypeScript + PostgreSQL
+STATUS   : [ ████████████████░░░░ ] In Progress
+ROLE     : Full-Stack — mobile frontend + REST backend
+```
 
+---
 
+```bash
+naeem@dev:~$ bash github_stats.sh
+```
 
-## 🔄 Recent Activities
+![Stats](https://github-readme-stats.vercel.app/api?username=naeem47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c0c0c0)
 
-- Improving backend skills with Node.js and Express.js
-- Learning advanced TypeScript and TypeORM
-- Exploring database optimization techniques
-- Implementing clean architecture patterns in Flutter projects
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem47&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
 
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naeem47&label=Profile%20views&color=0e75b6&style=flat" alt="naeem47" /> </p>
+---
+
+```bash
+naeem@dev:~$ tail -f currently_running.log
+```
+
+```
+[✔] Building   → Knock Knock V (full-stack)
+[✔] Learning   → Advanced TypeScript patterns
+[✔] Exploring  → Database optimization & indexing
+[✔] Practicing → Clean Architecture in Flutter & Node.js
+[~] Portfolio  → portolio-tan.vercel.app
+```
+
+---
+
+```bash
+naeem@dev:~$ cat contact.json
+```
+
+```json
+{
+  "email"     : "tfanaeem@gmail.com",
+  "linkedin"  : "linkedin.com/in/naeem-iqbal-965886221",
+  "portfolio" : "portolio-tan.vercel.app",
+  "github"    : "github.com/naeem47"
+}
+```
+
+---
+
+![](https://komarev.com/ghpvc/?username=naeem47&label=profile+views&color=00ff41&style=flat)
+
+```bash
+naeem@dev:~$ exit
+# Session ended. Thanks for visiting.
+```
