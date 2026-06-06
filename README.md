@@ -1,153 +1,146 @@
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███╗   ██╗ █████╗ ███████╗███████╗███╗   ███╗                 ║
-║   ████╗  ██║██╔══██╗██╔════╝██╔════╝████╗ ████║                 ║
-║   ██╔██╗ ██║███████║█████╗  █████╗  ██╔████╔██║                 ║
-║   ██║╚██╗██║██╔══██║██╔══╝  ██╔══╝  ██║╚██╔╝██║                 ║
-║   ██║ ╚████║██║  ██║███████╗███████╗██║ ╚═╝ ██║                 ║
-║   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝     ╚═╝                ║
-║                                                                  ║
-║   ██╗ ██████╗  ██████╗  █████╗ ██╗                              ║
-║   ██║██╔═══██╗██╔═══██╗██╔══██╗██║                              ║
-║   ██║██║   ██║██║   ██║███████║██║                              ║
-║   ██║██║▄▄ ██║██║▄▄ ██║██╔══██║██║                              ║
-║   ██║╚██████╔╝╚██████╔╝██║  ██║███████╗                         ║
-║   ╚═╝ ╚══▀▀═╝  ╚══▀▀═╝ ╚═╝  ╚═╝╚══════╝                         ║
-║                                                                  ║
-║           Flutter Engineer  │  Full-Stack Developer              ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# 👋 Hi, I'm Muhammad Naeem
 
-```bash
-naeem@dev:~$ whoami
-```
-> Flutter Engineer & Backend Developer — crafting digital experiences from mobile to server.
+<div align="center">
 
-```bash
-naeem@dev:~$ cat about.txt
-```
+### Flutter Developer • Full Stack Engineer • Software Designer
 
-```
-NAME      : Naeem Iqbal
-ROLE      : Flutter Engineer | Node.js Backend Developer
-LOCATION  : Pakistan 🇵🇰
-EMAIL     : tfanaeem@gmail.com
-STATUS    : Currently building → Knock Knock V
-TRAIT     : Quick learner. Complex problem solver.
-```
+Building scalable mobile & web applications with Flutter, Node.js, PostgreSQL, MongoDB & Firebase.
+
+<p>
+  <a href="https://portolio-tan.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com//in/naeem-iqbal-965886221/">LinkedIn</a>
+</p>
+
+</div>
 
 ---
 
-```bash
-naeem@dev:~$ cat skills/frontend.dart
-```
+## 🚀 About Me
 
-```dart
-class FrontendSkills {
-  final framework      = "Flutter & Dart";
-  final stateManagement = [
-    "Bloc",       // preferred for large apps
-    "Riverpod",   // modern & testable
-    "GetX",       // rapid prototyping
-    "Provider",   // classic
-  ];
-  final architecture   = "Clean Architecture + SOLID";
-  final design         = "UI/UX implementation from Figma";
-  final integration    = "RESTful API integration";
-}
-```
+I'm a passionate software developer focused on creating modern, scalable, and high-performance applications.
 
-```bash
-naeem@dev:~$ cat skills/backend.ts
-```
-
-```typescript
-const backendSkills = {
-  runtime:   "Node.js",
-  framework: "Express.js",
-  language:  "TypeScript",
-  orm:       "TypeORM",
-  patterns:  ["RESTful API design", "Auth & Authorization", "Middleware"],
-  currently: "Deepening — advanced TS patterns, query optimization",
-};
-```
-
-```bash
-naeem@dev:~$ cat skills/databases.sql
-```
-
-```sql
-SELECT * FROM databases WHERE proficiency = 'working';
-
--- ┌────────────┬────────────┬─────────────────────┐
--- │ database   │ type       │ use_case            │
--- ├────────────┼────────────┼─────────────────────┤
--- │ PostgreSQL │ Relational │ Primary production  │
--- │ MySQL      │ Relational │ Legacy / shared DBs │
--- │ MongoDB    │ Document   │ Flexible schemas    │
--- │ Firebase   │ NoSQL      │ Realtime / mobile   │
--- └────────────┴────────────┴─────────────────────┘
-```
+- 📱 Cross-platform Mobile Development with Flutter
+- 🌐 Full Stack Development using Node.js & Express.js
+- 🏗️ Clean Architecture & Scalable Software Design
+- 🔥 Firebase, PostgreSQL & MongoDB
+- 🎨 UI/UX Focused Development
+- 🚀 Building SaaS, Business, and Productivity Applications
 
 ---
 
-```bash
-naeem@dev:~$ ls projects/ && cat projects/knock-knock-v.md
-```
+## 🛠️ Tech Stack
 
-```
-PROJECT  : Knock Knock V
-STACK    : Flutter + Node.js + TypeScript + PostgreSQL
-STATUS   : [ ████████████████░░░░ ] In Progress
-ROLE     : Full-Stack — mobile frontend + REST backend
-```
+### Mobile Development
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-000000?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
 
-```bash
-naeem@dev:~$ bash github_stats.sh
-```
+### Backend Development
 
-![Stats](https://github-readme-stats.vercel.app/api?username=naeem47&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c0c0c0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naeem47&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c0c0c0)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=naeem47&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
+### Databases
 
----
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-F9A825?style=for-the-badge)
 
-```bash
-naeem@dev:~$ tail -f currently_running.log
-```
+### Tools
 
-```
-[✔] Building   → Knock Knock V (full-stack)
-[✔] Learning   → Advanced TypeScript patterns
-[✔] Exploring  → Database optimization & indexing
-[✔] Practicing → Clean Architecture in Flutter & Node.js
-[~] Portfolio  → portolio-tan.vercel.app
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-```bash
-naeem@dev:~$ cat contact.json
-```
+## 💼 Featured Projects
 
-```json
-{
-  "email"     : "tfanaeem@gmail.com",
-  "linkedin"  : "linkedin.com/in/naeem-iqbal-965886221",
-  "portfolio" : "portolio-tan.vercel.app",
-  "github"    : "github.com/naeem47"
-}
-```
+### 🛒 POS Management System
+
+A modern Point of Sale solution featuring:
+
+- Product Management
+- Category Management
+- Sales Analytics
+- Revenue Reports
+- Inventory Tracking
+- Modern Dashboard UI
+
+**Tech Stack:** Flutter • Riverpod • Firebase
 
 ---
 
-![](https://komarev.com/ghpvc/?username=naeem47&label=profile+views&color=00ff41&style=flat)
+### 💼 Freelance Marketplace Platform
 
-```bash
-naeem@dev:~$ exit
-# Session ended. Thanks for visiting.
-```
+An Upwork-inspired platform connecting clients and freelancers.
+
+**Features**
+
+- Job Posting
+- Applications Management
+- Real-Time Messaging
+- Notifications
+- User Profiles
+
+**Tech Stack:** Flutter • Firebase • Node.js
+
+---
+
+### ✅ Task Management Application
+
+A clean architecture productivity application.
+
+**Features**
+
+- Tasks & Subtasks
+- Offline Storage
+- Local Database
+- Modern UI
+
+**Tech Stack:** Flutter • Hive • Riverpod
+
+---
+
+### 🏫 School Management System
+
+Multi-tenant school management platform.
+
+**Features**
+
+- Role Management
+- Student Records
+- Attendance Tracking
+- Reports & Analytics
+
+**Tech Stack:** Flutter • Nest.js • PostgreSQL
+
+## 🎯 Currently Learning
+
+- Advanced System Design
+- Microservices Architecture
+- High-Performance Backend Systems
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 Portfolio: https://portolio-tan.vercel.app/
+- 💼 LinkedIn: https://linkedin.com/in/naeem-iqbal-965886221/
+- 📧 Email: tfanaeem@gmail.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting! 🚀
+
+*"Turning ideas into scalable digital products."*
+
+</div>
